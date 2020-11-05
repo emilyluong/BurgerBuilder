@@ -2,8 +2,6 @@
 
 Build your own burger! Choose your own toppings and play around with it! 
 
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
